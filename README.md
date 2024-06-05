@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(http://Mr-Wasith.io)
 <h1 align="center">Hi 👋, I'm Ramij Wasith Rahat</h1>
-<h3 align="center">I am highly interested in Competitive programming and Machine learning</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
+<h3 align="center">I am an Undergrade student at CUET CSE.I am highly interested in Competitive programming and Machine learning</h3>
+<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/3848914-Programmer-Thomas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMohamed-khattab&psig=AOvVaw3o_FZ0VCMEMNn76Ff02uQp&ust=1717686324764000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi4gcjexIYDFQAAAAAdAAAAABAJ)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-wasith&label=Profile%20views&color=0e75b6&style=flat" alt="mr-wasith" /> </p>
 
