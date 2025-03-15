@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **OOP,DSA,Web Development**
+- 🌱 I’m currently learning **OOP,DSA,Web Development,Machine Learning**
 
 - 📫 How to reach me **rahat.cuetcse22@gmail.com**
 
