@@ -1,13 +1,13 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(http://Mr-Wasith.io)
-<h1 align="center">Hi 👋, I'm Ramij Wasith Rahat</h1>
-<h3 align="center">I am an Undergrade student at CUET CSE.I am highly interested in Competitive programming and Machine learning</h3>
+<h1 align="center">Hi, I'm Ramij Wasith Rahat</h1>
+<h3 align="center">Undergraduate CSE student at CUET, working with Machine Learning, Deep Learning, and Web Development.</h3>
 <img align="right" alt="Coding" width="460" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-wasith&label=Profile%20views&color=0e75b6&style=flat" alt="mr-wasith" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,Web Development,Machine Learning**
+- 🌱 I’m currently learning **Web Development, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **rahat.cuetcse22@gmail.com**
 
